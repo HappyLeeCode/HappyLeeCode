@@ -1,7 +1,7 @@
-###  你所做的事情，或许无人在意，
-###  但只要你仍追求完美，你就终将掌握
-###  连专家也望而兴叹的技能！
-####   —— 史蒂夫 · 沃兹尼亚克，苹果公司联合创始人
+###  公告
+##  我的个人博客网站：https://happylee.cn，将于3月30号起进行内容整合，届时将暂停域名解析，无法访问。
+##  如果你想要浏览网站往前内容，可以访问 https://happyleecode.github.com
+##  本次网站整改时间受个人学业影响，最终上线时间未定，敬请期待！
 
 <!--
 **HappyLeeCode/HappyLeeCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
