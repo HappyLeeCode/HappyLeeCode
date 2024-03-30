@@ -1,7 +1,7 @@
 ###  公告
-####  我的个人博客网站 https://happylee.cn  将于3月30号起进行内容调整，届时将暂停域名解析服务，此链接无法访问。
-####  如果你想要浏览网站过往页面和内容，可以访问 https://happyleecode.github.io
-####  本次网站整改受个人学业影响，最终上线时间未定，感谢您的谅解，敬请期待！
+####  我的个人博客网站 https://happylee.cn  将于3月30号起进行内容调整，届时将暂停域名解析服务，此链接无法访问
+####  如果你想要浏览网站过往的页面和内容，可以访问 https://happyleecode.github.io
+####  本次网站整改，受个人学业影响，最终上线时间暂未确定。在此，感谢您的谅解，敬请期待！
 
 <!--
 **HappyLeeCode/HappyLeeCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
